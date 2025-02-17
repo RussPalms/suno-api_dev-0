@@ -12,12 +12,12 @@ Github: [https://github.com/gochendong/suno-api](https://github.com/gochendong/b
 ## Features
 
 1. Support latest v4 model
-2. fetch .env token from https://surl.id/1uHHTdiT2F
+2. fetch .env token from https://share.acedata.cloud/r/1uHHYC0HiL
 3. You can visit API documentation through http://localhost:8000/docs
 
 ## Install
 
-1. From https://surl.id/1uHHTdiT2F fetch SUNO Application TOKEN and edit the `.env.example` file, rename to `.env` and fill in cookie.
+1. From https://share.acedata.cloud/r/1uHHYC0HiL fetch SUNO Application TOKEN and edit the `.env.example` file, rename to `.env` and fill in cookie.
 
 2. Start the service
     ```
